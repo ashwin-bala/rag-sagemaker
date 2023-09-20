@@ -1,4 +1,4 @@
-# RAG with SageMaker Jump SageMaker
+# RAG with SageMaker JumpStart Models
 RAG using SageMaker JumpStart Models
 
 Pre-requisites:
