@@ -1,4 +1,4 @@
-# rag-sagemaker
+# RAG with SageMaker Jump SageMaker
 RAG using SageMaker JumpStart Models
 
 Expects 2 Models deployed through SageMaker JumpStart and endpoint names updated
