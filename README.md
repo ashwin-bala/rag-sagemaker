@@ -1,2 +1,2 @@
-# rag-sagemaker-jmpstrt-llama77b
+# rag-sagemaker
 RAG using SageMaker JumpStart Models
